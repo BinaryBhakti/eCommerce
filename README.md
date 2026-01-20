@@ -21,8 +21,6 @@ A robust E-Commerce REST API backend built with **Spring Boot** and **MongoDB**,
 - **Build Tool**: Maven
 - **Testing**: Postman
 
----
-
 ## ⚙️ Setup & Installation
 
 ### 1. Prerequisites
@@ -119,3 +117,12 @@ src/main/java/com/example/ecommerce
 ├── service      # Business Logic
 └── webhook      # Payment Webhook Handler
 ```
+
+---
+
+## 👤 Author
+
+**Ashmit**  
+**Roll No:** 24BCS10064
+
+---
